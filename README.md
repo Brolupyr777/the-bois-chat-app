@@ -18,3 +18,6 @@ Step 3:
   Make multiple users with authenticator
  
   
+## Creating a UI
+
+The nav, the typing window, the chat overview, the user count, the menu to change chats.
